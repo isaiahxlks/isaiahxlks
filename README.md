@@ -1,4 +1,4 @@
-# Hi, Im Isaiah  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+<p align="center"><a href="https://isaiahxlks.github.io"><img width="80%" alt="Hello, I'm Isaiah. I do open python!" src="./assets/gh-readme-header.png" /></a></p>
 
 ## 🛠 Tools And languages 
 [![My Skills](https://skillicons.dev/icons?i=html,cpp,js,windows,matlab,java,c,python,pycharm,flask,go,bash,rust,r,astro)](#)
@@ -12,4 +12,3 @@
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaiahxlks&theme=chartreuse-dark)
 
-![Codewars](https://github.r2v.ch/codewars?user=mySecondcCode&top_languages=true&theme=dark&stroke=white)
