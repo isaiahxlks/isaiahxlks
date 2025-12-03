@@ -1,4 +1,4 @@
-<p align="center"><a href="https://isaiahxlks.github.io"><img width="80%" alt="Hello, I'm Isaiah. I do open python!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://isaiahxlks.github.io"><img width="80%" alt="Hello, I'm Isaiah. I do  python!" src="./assets/gh-readme-header.png" /></a></p>
 
 ## 🛠 Tools And languages 
 [![My Skills](https://skillicons.dev/icons?i=html,cpp,js,windows,matlab,java,c,python,pycharm,flask,go,bash,rust,r,astro)](#)
