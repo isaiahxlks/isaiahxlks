@@ -9,3 +9,5 @@
 - i would love if You Starred My repositories
 - Fork my repositories if you want.
 - i love Programming it's in my job :D
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaiahxlks&theme=chartreuse-dark)
