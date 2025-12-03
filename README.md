@@ -11,3 +11,5 @@
 - i love Programming it's in my job :D
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaiahxlks&theme=chartreuse-dark)
+
+![Codewars](https://github.r2v.ch/codewars?user=myFirstCode&top_languages=true&theme=dark&stroke=white)
