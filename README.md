@@ -1,4 +1,4 @@
-<p align="center"><a href="https://isaiahxlks.github.io"><img width="80%" alt="Hello, I'm Isaiah. I do  python!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 ## 🛠 Tools And languages 
 [![My Skills](https://skillicons.dev/icons?i=html,cpp,js,windows,matlab,java,c,python,pycharm,flask,go,bash,rust,r,astro)](#)
@@ -12,3 +12,5 @@
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaiahxlks&theme=chartreuse-dark)
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaiahxlks&repo=isaiahxlks.github.io&theme=buefy" />
+</a>
