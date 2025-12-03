@@ -12,4 +12,4 @@
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaiahxlks&theme=chartreuse-dark)
 
-![Codewars](https://github.r2v.ch/codewars?user=isaiahxlks&top_languages=true&theme=dark&stroke=white)
+![Codewars](https://github.r2v.ch/codewars?user=mySecondcCode&top_languages=true&theme=dark&stroke=white)
