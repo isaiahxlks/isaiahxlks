@@ -4,7 +4,7 @@
 ## 🛠 Tools And languages 
 [![My Skills](https://skillicons.dev/icons?i=html,cpp,js,windows,matlab,java,c,python,pycharm,flask,go,bash,rust,r,astro)](#)
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
-![Isaiah's GitHub stats](https://gh-stats.public.homelab.isaiahxlks.org/api?username=isaiahxlks&show_icons=true&theme=transparent)
+![utkuozdemir's GitHub stats](https://gh-stats.public.homelab.utkuozdemir.org/api?username=utkuozdemir&show_icons=true&theme=transparent)
 
 - I love One Piece
 - i would love if You Starred My repositories
