@@ -16,6 +16,6 @@
   <a href="https://github.com/isaiahxlks/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaiahxlks%repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/isaiahxlks/isaiahxlks.github.io">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaiahxlks&repo=isaiahxlks.github.io&theme=buefy" />
 </a>
